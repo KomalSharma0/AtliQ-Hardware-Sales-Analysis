@@ -28,7 +28,7 @@ The goal of this project is to create a comprehensive sales analysis dashboard t
 
 ## Steps Involved
 This project was developed following a structured approach:
-1. **Data Collection**: Collected sales data from 2017 to 2020, including revenue, sales quantities, profit margins, and customer details in SQL file format(Sales database). [View Data Source](https://github.com/KomalSharma0/Blinkit-Sales-Analysis-Power-Bi-/blob/main/BlinkIT%20Grocery%20Data.xlsx)
+1. **Data Collection**: Collected sales data from 2017 to 2020, including revenue, sales quantities, profit margins, and customer details in SQL file format(Database). [View Data Source](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/db_dump_version_2.sql)
 2. **Data Walkthrough**: Explored and analyzed the data structure in SQL to gain a deeper understanding of the variables and relationships.
 3. **Data Importing**: Imported the data into Power BI to begin the dashboard creation process.
 4. **Data Cleaning**: Performed data cleaning by handling duplicates, missing values, and ensuring consistent data formatting.
