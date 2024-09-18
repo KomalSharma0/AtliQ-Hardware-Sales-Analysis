@@ -85,7 +85,10 @@ Through this project, I gained the following technical and analytical skills:
 ## Dashboard Demo
 You can find a screenshot showcasing the sales analysis and key insights here:
 
-![Dashboard Screenshot 1](https://github.com/KomalSharma0/Blinkit-Sales-Analysis-Power-Bi-/blob/main/Blinkit%20sales%20analysis.png)
+![Dashboard Screenshot 1](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard1.png)
+![Dashboard Screenshot 2](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard1.png)
+![Dashboard Screenshot 3](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard1.png)
+![Dashboard Screenshot 4](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard1.png)
 
 Alternatively, you can view the dashboard [here](https://github.com/KomalSharma0/Blinkit-Sales-Analysis-Power-Bi-/blob/main/Blinkit%20Sales%20Dashboard.pbix).
 
