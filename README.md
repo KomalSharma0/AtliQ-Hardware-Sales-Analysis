@@ -86,11 +86,11 @@ Through this project, I gained the following technical and analytical skills:
 You can find a screenshot showcasing the sales analysis and key insights here:
 
 ![Dashboard Screenshot 1](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard1.png)
-![Dashboard Screenshot 2](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard1.png)
-![Dashboard Screenshot 3](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard1.png)
-![Dashboard Screenshot 4](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard1.png)
+![Dashboard Screenshot 2](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard2.png)
+![Dashboard Screenshot 3](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard3.png)
+![Dashboard Screenshot 4](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Sales%20Dashboard4.png)
 
-Alternatively, you can view the dashboard [here](https://github.com/KomalSharma0/Blinkit-Sales-Analysis-Power-Bi-/blob/main/Blinkit%20Sales%20Dashboard.pbix).
+Alternatively, you can view the dashboard [here](https://github.com/KomalSharma0/AtliQ-Hardware-Sales-Analysis/blob/main/AtliQ%20Hardware%20Sales%20Dashboard.pbix).
 
 ## Conclusion
 This project, developed with guidance from Codebasics' YouTube channel, has provided a practical solution to Bhavin Patel's challenges by creating a sales analysis dashboard. The dashboard delivers clear insights into sales performance, product profitability, and regional trends, empowering AtliQ H/W to make informed business decisions. With this tool, the company can refine its strategy, boost profit margins, and focus efforts on revitalizing underperforming markets. Through this guided project, I've gained valuable hands-on experience in data analysis and visualization.
