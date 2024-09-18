@@ -5,9 +5,9 @@
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
 - [Steps Involved](#steps-involved)
-- [Skills Gained](#skills-gained)
 - [Business Insights](#business-insights)
 - [Recommendations](#recommendations)
+- [Skills Gained](#skills-gained)
 - [Dashboard Demo](#dashboard-demo)
 - [Conclusion](#conclusion)
 
@@ -33,14 +33,6 @@ This project was developed following a structured approach:
 6. **DAX Calculations**: Used DAX (Data Analysis Expressions) to create custom calculations such as total revenue, profit margins, and various other business metrics.
 7. **Charts Development and Formatting**: Created visualizations such as bar graphs, line charts, and tables to represent the data effectively and provide quick insights.
 8. **Dashboard Development**: Designed an intuitive dashboard that consists of key metrics, trends, and insights on sales performance.
-   
-## Skills Gained
-Through this project, I gained the following technical and analytical skills:
-- **Data Cleaning and Preparation**: Learned best practices for cleaning raw data and preparing it for analysis.
-- **DAX (Data Analysis Expressions)**: Gained proficiency in using DAX to calculate custom metrics and KPIs in Power BI.
-- **Data Visualization**: Developed skills in visualizing data through various charts, graphs, and dashboards.
-- **Sales and Market Analysis**: Improved my ability to analyze sales data and derive actionable insights.
-- **Power BI Dashboard Design**: Acquired knowledge in building professional, interactive dashboards in Power BI.
   
 ## Business Insights
 1. **Total Sales**: Blinkit generated $1.20M in sales, with an average transaction value of $141. Increasing this value could drive additional growth.
@@ -53,7 +45,15 @@ Through this project, I gained the following technical and analytical skills:
 1. **Promote Bundled Offers**: To increase the average sales per transaction, Blinkit could introduce bundle offers, especially in lower-tier outlets.
 2. **Expand Low-Fat Products**: Capitalize on the growing demand for healthier options by expanding low-fat product offerings.
 3. **Invest in Tier 3 Markets**: With strong sales in Tier 3 cities, increasing investments in these areas could yield further growth.
-4. **Focus on Newer Outlets**: Outlets established after 2018 could benefit from targeted marketing efforts and better product assortments.
+5. **Focus on Newer Outlets**: Outlets established after 2018 could benefit from targeted marketing efforts and better product assortments.
+   
+## Skills Gained
+Through this project, I gained the following technical and analytical skills:
+- **Data analysis using SQL**:
+- **Power BI dashboard development**:
+- **DAX calculations for business insights**:
+- **Data cleaning and modeling**:
+- **Visual storytelling and presentation skills**:
 
 ## Dashboard Demo
 You can find a screenshot showcasing the sales analysis and key insights here:
